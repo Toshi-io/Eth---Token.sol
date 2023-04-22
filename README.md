@@ -32,7 +32,7 @@ To see current balances of the address, input the address of the recipient and t
 
 NTCIAN Angelo Baldono
 
-[Discord: @toshi1148 
+Discord: @toshi1148 
 
 
 ## License
